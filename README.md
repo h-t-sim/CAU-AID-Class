@@ -36,6 +36,6 @@ Ensure you have the following installed:
 ## Usage
 1. Run the script:
  ```bash
-python knn_iris_classifier.py
+  python knn_iris_classifier.py
 ```
-2.Enter the number of neighbors (```bash k```)
+2.Enter the number of neighbors (``` k```)
