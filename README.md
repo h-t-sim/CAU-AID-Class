@@ -34,4 +34,8 @@ Ensure you have the following installed:
 4. Ensure the `iris.csv` dataset is available in the project directory.
 
 ## Usage
-1. Run the script
+1. Run the script:
+ ```bash
+python knn_iris_classifier.py
+```
+2.Enter the number of neighbors (```bash k```)
