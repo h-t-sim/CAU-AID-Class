@@ -53,8 +53,8 @@ Ensure you have the following installed:
 ```
 
 ## Notes 
--Ensure that the input for predictions is numeric and follows the correct format(```value1,value2```).
--Modify the dataset loading path in the script if necessary
+ - Ensure that the input for predictions is numeric and follows the correct format(```value1,value2```).
+ - Modify the dataset loading path in the script if necessary
 
 ## License
 This project is licensed under the MIT License.
