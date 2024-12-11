@@ -57,7 +57,7 @@ Ensure you have the following installed:
  - Modify the dataset loading path in the script if necessary.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](./LICENSE).
 
 ## Author 
-Developed by h-t-sim
+Developed by [h-t-sim](https://github.com/h-t-sim)
